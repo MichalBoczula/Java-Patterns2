@@ -4,6 +4,7 @@ import com.kodilla.patterns2.facade.ItemDto;
 import com.kodilla.patterns2.facade.OrderDto;
 import com.kodilla.patterns2.facade.OrderFacade;
 import com.kodilla.patterns2.facade.OrderProcessingException;
+import com.kodilla.patterns2.shop.ShopService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

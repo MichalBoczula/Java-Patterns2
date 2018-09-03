@@ -1,4 +1,4 @@
-package com.kodilla.patterns2;
+package com.kodilla.patterns2.shop;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package com.kodilla.patterns2;
+package com.kodilla.patterns2.shop;
 
 public class Item {
     private final Long productId;
